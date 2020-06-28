@@ -11,8 +11,7 @@
     // Block and block menu descriptions
     var descriptor = {
         blocks: [
-            [' ', 'test'%s, 'ext')
-            ['w', 'test2'%s, ext)
+            ['W', 'block content', 'ext']
         ]
     };
 
