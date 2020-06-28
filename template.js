@@ -12,6 +12,7 @@
     var descriptor = {
         blocks: [
             [' ','test'%s,ext)
+            ['w','test2'%s,ext)
         ]
     };
 
